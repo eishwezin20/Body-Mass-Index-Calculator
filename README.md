@@ -2,4 +2,4 @@
 BMI calculating Web App
 
 Simple and easy to use
-Just one click
+Just one click and go!
