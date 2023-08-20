@@ -29,6 +29,7 @@ function calculate() {
 
 		document.getElementById("results").innerHTML = measure;
 	}
+	
 	if (weight < 0) {
 		document.getElementById("results").innerHTML = "Negative Values not Allowed";
 	}
