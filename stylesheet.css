@@ -64,7 +64,6 @@ form p:nth-child(1){
     }
 }
 
-
 @media (min-width: 1024px) {
     .panel {
         width: 30%;
